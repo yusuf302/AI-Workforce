@@ -11,7 +11,6 @@ Access the complete 5-page report directly on GitHub:
 ---
 
 ## 📁 Repository Overview
-text
 .
 ├── data/                                # Normalized CSV dataset files
 │   ├── dim_country.csv
