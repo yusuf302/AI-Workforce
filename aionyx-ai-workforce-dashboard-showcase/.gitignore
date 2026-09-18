@@ -1,6 +1,0 @@
-# Power BI local/cache files
-*.pbi
-*.tmp
-*.log
-.DS_Store
-Thumbs.db
