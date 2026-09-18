@@ -11,6 +11,7 @@ Access the complete 5-page report directly on GitHub:
 ---
 
 ## 📁 Repository Overview
+text
 .
 ├── data/                                # Normalized CSV dataset files
 │   ├── dim_country.csv
@@ -21,9 +22,12 @@ Access the complete 5-page report directly on GitHub:
 ├── docs/                                # Challenge brief & data dictionary
 │   ├── CHALLENGE_BRIEF.md
 │   └── DATA_DICTIONARY.md
-├── aionyx_powerbi_dashboard_preview.pdf # 5-Page Dashboard PDF Report
-├── LICENSE
-└── README.md
+├── .gitignore                           # Git ignore configuration
+├── LICENSE                              # MIT License
+├── README.md                            # Project documentation
+└── aionyx_powerbi_dashboard_preview.pdf # 5-Page Dashboard PDF Report
+
+
 ---
 
 ## 📊 Key Highlights
