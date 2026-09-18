@@ -64,3 +64,7 @@ Synthetic challenge dataset supplied for the DataDNA Dataset Challenge 2026-07.
 ## Preview
 
 ![AI Workforce Transformation Dashboard](assets/aionyx_linkedin_showcase.png)
+
+## Dashboard Preview
+
+[📄 View Full PDF Report](aionyx_powerbi_dashboard_preview.pdf)
