@@ -91,3 +91,16 @@ Brings the findings together into a prioritization view focused on displacement 
 ├── aionyx_powerbi_dashboard_preview.pdf
 ├── LICENSE
 └── README.md
+
+```
+
+## Interpretation & reproducibility
+
+These figures describe the Onyx Data DataDNA challenge dataset. They are portfolio case-study results, not independently verified global labour-market estimates or causal effects of AI adoption. Consult the [challenge brief](docs/CHALLENGE_BRIEF.md) and [data dictionary](docs/DATA_DICTIONARY.md) for scope and definitions.
+
+The repository includes CSV inputs and a dashboard PDF. A Power BI `.pbix` source file is not included, so the PDF supports review of the finished analysis but does not provide full dashboard replication.
+
+## Author
+
+[Yusuf Abdallah Jongo](https://yusuf-jongo.vercel.app/) — Economist, Data Analyst & AI and Digital Solutions Builder.
+
